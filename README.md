@@ -1,4 +1,4 @@
-# ohw18_omlet
+# omlet
 Oceanhackweek 2018 Ocean Machine LEarning Toolkit
 
 # Ocean Machine LEarning Toolkit "OMLET"
